@@ -32,3 +32,6 @@ This project analyzes the movie industry’s production, financial performance, 
 
 ### 📌 Project Outcome
 An interactive Power BI dashboard providing actionable insights for strategic decision-making in movie production, marketing, and distribution.
+
+#### Dashboard Link - 
+https://drive.google.com/file/d/1ZfVhFd4tLQz5m0kwJOnUvfuZCKY0gMWb/view?usp=sharing
